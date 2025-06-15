@@ -16,7 +16,7 @@ We analyze patient trajectories from the DEPAR study to discover subgroups that 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/emm-mer-subgroup-discovery.git
+   git clone https://github.com/your-username/EMM_MER.git
    cd emm-mer-subgroup-discovery
 
 2. Install dependencies:
